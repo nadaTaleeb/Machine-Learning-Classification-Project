@@ -29,7 +29,7 @@ It includes model training, comparison, visualization, and evaluation using both
   - Tree visualization
   - Model accuracy
 
-## 🟡 Part B: Classifier Comparison
+## Part B: Classifier Comparison
 
 Models used:
 - K-Nearest Neighbors (KNN)
