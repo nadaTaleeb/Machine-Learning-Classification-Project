@@ -56,7 +56,6 @@ Models used:
 
 - Decision Tree: Good interpretability
 - Naive Bayes: Fast but less flexible
-- KNN: Strong performance with tuning
 
 ## Technologies Used
 
