@@ -1,0 +1,2 @@
+﻿Model,Accuracy,Precision,Recall,F1-Score
+Gaussian Naive Bayes,0.5333,0.5074,0.5051,0.475
